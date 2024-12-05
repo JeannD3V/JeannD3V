@@ -1,7 +1,6 @@
-<h1 align="center"><b>Hi , I'm Jean Saavedra </b><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RrZzhoNnozZDdyZjEwamduY3ZhZjRqM2E3em53ZzVnM2Q0bzVzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/i99VfFMRAbd1Psrteb/giphy.gif" width="40"></h1>
-<!--  -->
+<h1 align="center"><b>Hi , I'm Jean Saavedra </b><img src="https://media.giphy.com/media/26Ff6Rb8bUavLBHeA/giphy.gif" width="40"></h1>
 
-<img align="right" width=300px alt="Unicorn" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3EwODl2eHI3ZW9uejhhc2V0aXp4Y25rZGNvOWNzMWljNjliczRwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mAZf4H4Pi0wwlj3ZAw/giphy.gif" />
+<img align="right" width="200px" alt="Unicorn" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3EwODl2eHI3ZW9uejhhc2V0aXp4Y25rZGNvOWNzMWljNjliczRwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mAZf4H4Pi0wwlj3ZAw/giphy.gif" />
 
 Hello! I’m Jean, a recent graduate in Computer Engineering at UCSC. I’m passionate about learning and creating new, innovative, and productive solutions. Currently, I’m expanding my knowledge in front-end, back-end development and beyond.
 I thrive on tackling challenges and believe in proactive problem-solving and collaboration.
@@ -36,17 +35,3 @@ I thrive on tackling challenges and believe in proactive problem-solving and col
 <a href="https://www.linkedin.com/in/jean-carlos-saavedra-ya%C3%B1ez-268b69328/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<!--
-**JeannD3V/JeannD3V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
