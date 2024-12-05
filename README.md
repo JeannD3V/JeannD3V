@@ -7,7 +7,8 @@ Hello! I’m Jean, a recent graduate in Computer Engineering at UCSC. I’m pass
 I thrive on tackling challenges and believe in proactive problem-solving and collaboration.
 
 - 🔭 I’m currently working on personal development to learn new technologies and become a more well-rounded professional.
-<br>
+
+## My Skills Include
 <h4>👨‍💻 Technologies</h4>
 <span> 
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
@@ -30,6 +31,11 @@ I thrive on tackling challenges and believe in proactive problem-solving and col
   <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=Scrum&logoColor=white">
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white">
 </span>
+
+## My social media
+<a href="https://www.linkedin.com/in/jean-carlos-saavedra-ya%C3%B1ez-268b69328/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 <!--
 **JeannD3V/JeannD3V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
