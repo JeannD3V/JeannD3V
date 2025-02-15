@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi, I'm Jean Saavedra <img src="https://i.giphy.com/media/i99VfFMRAbd1Psrteb/giphy.gif" width="40"></h1>
 
 <p align="center">
@@ -15,19 +16,29 @@ Hello! I’m **Jean**, a recent **Computer Engineering** graduate from **UCSC**.
 
 ## 🛠️ Technologies & Tools
 
-### 🔹 Core Tech Stack
+### 🎨 Front-End Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,css,laravel,js,ts,php,python,react,express,astro" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,css,astro" />
+</p>
+
+### 🏗️ Back-End Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,python" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,phpmyadmin" />
+</p>
+
+### 🔧 Tools & Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,pnpm,npm,scrum" />
 </p>
 
 ### 📚 Currently Learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,astro" />
-</p>
-
-### 🖥️ Other Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,mongodb,postgres,scrum,phpmyadmin,windows,linux,vscode,pnpm,npm,nodejs" />
 </p>
 
 ---
